@@ -54,7 +54,7 @@ A non-precision approach officially can only give you lateral guidance to the po
 | VOR-DME or VOR Only | A VOR beacon with/without a distance from a DME | Old style approaches, where ILS cannot be used. |
 | NDB-DME or DME Only | A NDB beacon with/without a distance from a DME | Old style approaches, where an ILS cannot be used |
 | LNAV Only | GPS or the Aircrafts position inside the flight management computers | Approaches where there are no radio beacons in the area |
-| Approach Surveillance Radar \(ASR\) | A radar dish and a controller (No altitude compared to PAR) | Commonly as a backup, or at military airfields. |
+| Approach Surveillance Radar \(ASR\) | A radar dish and a controller <br> (No altitude compared to PAR) | Commonly as a backup, or at military airfields. |
 | Visual | Pilots eyeball! | Where there is no issue with the weather and the runway is already in sight |
 
 These approaches are all flown traditionally with just a beacon pointer, a localiser giving left/right corrections or a controller giving rough headings. With a helpful co-pilot who will be using the altitude table to check if you are high or low, you keep correcting down towards the runway. As the term non-precision hints, these approaches are nowhere near as accurate as a precision approach and as such can require quite good weather to be able to attempt them. VOR and NDB beacons are slowly disappearing due to maintenance costs and the more useful APV approaches being made available.
