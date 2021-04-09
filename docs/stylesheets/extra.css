@@ -44,9 +44,6 @@ h4 {
   border-left: .2rem solid #00C2CB;
   border-color: #00C2CB;
 }
-.md-typeset .emojione svg, .md-typeset .twemoji svg, .md-typeset .gemoji svg {
-  fill: none;
-}
 /*Admonition Question Variant*/
 /*Upper Section*/
 .md-typeset .question>.admonition-title, .md-typeset .question>summary,
