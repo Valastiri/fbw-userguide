@@ -31,6 +31,7 @@ nav:
       - Website: development-projects/website.md
   - A32NX Development:
       - Overview: a32nx-dev/overview.md
+      - Javascript: a32nx-dev/javascript.md
   - Donate: donate.md
 
 # Configuration
