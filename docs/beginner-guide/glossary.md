@@ -1,6 +1,12 @@
+## Overview
 
+This glossary provides a compendium of information on the basic systems a beginner may need to familiarize themselves.
 
-# The Overhead Panel
+[Build this out later]
+
+---
+
+## The Overhead Panel
 
 ![Overhead Panel Sectioned](../assets/beginner-guide/glossary/Overhead-Panel/Overhead-Sectioned.png)  
 
