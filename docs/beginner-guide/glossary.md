@@ -8,13 +8,13 @@ This glossary provides a compendium of information on the basic systems a beginn
 
 ## The Overhead Panel
 
-![Overhead Panel Sectioned](../assets/beginner-guide/glossary/Overhead-Panel/Overhead-Sectioned.png)  
+![Overhead Panel Sectioned](../assets/beginner-guide/glossary/Overhead-Panel/Overhead.png)  
 
  Let's break down each panel and section, going from the top left downwards.
 
 ---
 ### The ADIRS/ NAV Panel:
-![Overhead Nav Panel](../assets/beginner-guide/glossary/Overhead-Panel/Nav-Panel.png)
+![Overhead Nav Panel](../assets/beginner-guide/glossary/Overhead-Panel/ADIRS.png)
 
 Pretty simple, but an important panel. When you first start the aircraft up, you will turn the switches from "OFF" to "NAV", and wait up to 7 minutes for the aircraft to (quite literally) figure out where in the world it is.
 
@@ -23,9 +23,9 @@ The label under the ADIRS decal will display "ON BATT" when it is powered by the
 ---
 
 ### Flight Computer Control Panels 1 & 2
-![Flight Computer Controls 1](../assets/beginner-guide/glossary/Overhead-Panel/Flight-Computers1.png)
+![Flight Computer Controls 1](../assets/beginner-guide/glossary/Overhead-Panel/Flight-Computers-1.png)
 
-![Flight Computer Controls 2](../assets/beginner-guide/glossary/Overhead-Panel/Flight-Computers2.png)
+![Flight Computer Controls 2](../assets/beginner-guide/glossary/Overhead-Panel/Flight-Computers-2.png)
 
 
 - Elevator Aeileron Computers. (ELAC 1 & ELAC 2).
