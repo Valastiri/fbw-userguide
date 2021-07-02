@@ -2,13 +2,13 @@
 
 # The Overhead Panel
 
-![Overhead Panel Sectioned](./img/Overhead-Panel/Overhead-Sectioned.png)  
+![Overhead Panel Sectioned](../assets/beginner-guide/glossary/Overhead-Panel/Overhead-Sectioned.png)  
 
  Let's break down each panel and section, going from the top left downwards.
 
 ---
 ### The ADIRS/ NAV Panel:
-![Overhead Nav Panel](./img/Overhead-Panel/Nav-Panel.png)
+![Overhead Nav Panel](../assets/beginner-guide/glossary/Overhead-Panel/Nav-Panel.png)
 
 Pretty simple, but an important panel. When you first start the aircraft up, you will turn the switches from "OFF" to "NAV", and wait up to 7 minutes for the aircraft to (quite literally) figure out where in the world it is.
 
@@ -17,9 +17,9 @@ The label under the ADIRS decal will display "ON BATT" when it is powered by the
 ---
 
 ### Flight Computer Control Panels 1 & 2
-![Flight Computer Controls 1](./img/Overhead-Panel/Flight-Computers1.png)
+![Flight Computer Controls 1](../assets/beginner-guide/glossary/Overhead-Panel/Flight-Computers1.png)
 
-![Flight Computer Controls 2](./img/Overhead-Panel/Flight-Computers2.png)
+![Flight Computer Controls 2](../assets/beginner-guide/glossary/Overhead-Panel/Flight-Computers2.png)
 
 
 - Elevator Aeileron Computers. (ELAC 1 & ELAC 2).
@@ -35,7 +35,7 @@ All of these computers can be reset by....turning them off and on again. Yes, re
 
 ---
 ### Emergency Evacuation Panel
-![Evac Panel](./img/Overhead-Panel/Evacuation.png)
+![Evac Panel](../assets/beginner-guide/glossary/Overhead-Panel/Evacuation.png)
 
 - "Command" issues the evacuation command to the cabin. Pressing it again cancels the alarm.
 - "Horn Shutoff" also cancels the evacuation command.
@@ -43,7 +43,7 @@ All of these computers can be reset by....turning them off and on again. Yes, re
 
 ---
 ### Emergency Electrical Control Panel
-![Emergency Electrical](./img/Overhead-Panel/Emergency-Electrical.png)
+![Emergency Electrical](../assets/beginner-guide/glossary/Overhead-Panel/Emergency-Electrical.png)
 
 - EMER GEN TEST: Tests the emergency generator. This is usually used by maintenance on the ground.
 
@@ -55,5 +55,5 @@ All of these computers can be reset by....turning them off and on again. Yes, re
 ---
 
 ### Enhanced Ground Proximity Warning System (EGPWS) Panel:
-![EGPWS](./img/Overhead-Panel/EGPWS.png)
+![EGPWS](../assets/beginner-guide/glossary/Overhead-Panel/EGPWS.png)
 
